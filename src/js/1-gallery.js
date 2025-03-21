@@ -89,5 +89,4 @@ const lightbox = new SimpleLightbox('.gallery a', {
     captionSelector: "img",
     captionPosition: 'bottom',
     captionDelay: 250,
-    navText: ['/img/gallery.svg#prev-icon', ''],
 });
